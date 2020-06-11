@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MAD-RecyclerView</string>
+
+    <string-array name="DoList">
+        <item>Buy Milk</item>
+
+    </string-array>
 </resources>
